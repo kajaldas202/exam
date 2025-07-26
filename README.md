@@ -9,7 +9,7 @@ This repository contains a set of simple yet essential C programs written for le
 ### 1. ✅ Sum of First and Last Digit (3-digit Number)
 - Prompts user for a 3-digit number.
 - Calculates and prints the sum of the first and last digit.
-<img src="1.png">
+<img src="SS/1.png">
 
 ### 2. ✅ Count Consonants in a Sentence
 - Takes a sentence input.
